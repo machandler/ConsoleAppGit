@@ -7,7 +7,7 @@ namespace ConsoleAppGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Micheal!");
+            Console.WriteLine("Hello Andrew!");
 
             Console.WriteLine("\n\nPress <Return> to exit");
             Console.ReadLine();
